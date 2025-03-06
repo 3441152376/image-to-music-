@@ -3,6 +3,11 @@
 
 PhotoSongAI is an innovative AI-driven image-to-music platform capable of transforming images into unique musical compositions.
 
+## Contact Us
+
+- Website: [https://photosong.com](https://photosong.com)
+- Email: wuyanzu@photosong.com
+
 ## Features
 
 - 🎵 AI Intelligent Music Generation
